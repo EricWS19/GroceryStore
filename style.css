@@ -1,0 +1,31 @@
+h3 {
+  color: red;
+  background-color: aqua;
+}
+
+th {
+  color: blueviolet;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: greenYellow;
+  padding: 10px;
+  background-color: brown;
+  display: inline-block;
+}
+
+table {
+  background-color: coral;
+  width: 300px;
+  border: 15px solid green;
+  padding-top: 15px;
+  padding-left: 25px;
+  margin: 20px;
+}
+section {
+  background-color: gold;
+}
+img {
+  height: 175px;
+}
